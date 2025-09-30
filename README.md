@@ -14,10 +14,10 @@ It is **not affiliated with any real e-commerce company**.
 
 ## 🖼 Screenshots
 
-![Homepage](images/hero_image.jpg)  
-![Shop Section](images/box1_image.jpg)  
+![Homepage](images/website_screenshot.png)  
+![Shekhar's Mart Logo](images/logo.png)
 
-*(Replace the above with actual screenshots of your project if you like)*
+
 
 ## 💻 Installation / Running Locally
 
