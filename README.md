@@ -27,7 +27,6 @@ A **frontend clone of an e-commerce website** built for learning purposes.
 ### Website Screenshot
 ![Website Screenshot](public/images/website-screenshot.png)
 
-
 ---
 
 ## ⚙️ Installation
