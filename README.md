@@ -25,7 +25,7 @@ A **frontend clone of an e-commerce website** built for learning purposes.
 ![Logo](public/images/logo.png)
 
 ### Homepage
-![Website Screenshot](public/images/website\ scrrenshot.png)
+![Website Screenshot](public/images/website-screenshot.png)
 
 ### Other Images
 ![Social Image](public/images/1.png)
